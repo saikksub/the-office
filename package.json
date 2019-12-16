@@ -1,6 +1,6 @@
 {
   "name": "@saikksub/the-office",
-  "version": "0.1.4",
+  "version": "0.2.1",
   "description": "Convert docx documents into to JSON/HTML",
   "main": "./lib/index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/saikksub/smilodon.git"
+    "url": "git+https://github.com/saikksub/the-office.git"
   },
   "keywords": [
     "docx",
@@ -21,9 +21,9 @@
   "author": "saikksub <saikksub@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/saikksub/smilodon/issues"
+    "url": "https://github.com/saikksub/the-office/issues"
   },
-  "homepage": "https://github.com/saikksub/smilodon#readme",
+  "homepage": "https://github.com/saikksub/the-office#readme",
   "dependencies": {
     "detect-browser": "^4.7.0",
     "fast-xml-parser": "^3.13.0",
